@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">German</string>
+    <string name="alphabets">Alphabets</string>
+    <string name="numbers">Numbers</string>
+    <string name="greeting">Greeting</string>
+    <string name="phrases">Frequent Phrases</string>
+</resources>
